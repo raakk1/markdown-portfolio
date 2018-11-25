@@ -1,3 +1,5 @@
+# List exercise
+
 Underneath you'll find an ordered list:
 1. first item
 2. second item
@@ -6,6 +8,6 @@ Underneath you'll find an ordered list:
     2. second subitem
 4. last item
 
-Do you :heart: my list, then please :+1: it 
+Do you :heart: my list, then please :+1: it.
 
-Mery Christmas :christmas_tree:! 
+Mery Christmas :christmas_tree: !
